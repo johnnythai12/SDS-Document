@@ -1,8 +1,10 @@
 # SDS-Document Group 11
 
 ## Title Page
-* Software title
-* Team members
+* Midnight Viewer
+* Johnny Thai
+* Aaron Justin Garcia Cayanan
+* Ahmad Khwajazada
 
 ## System Description
 * Brief overview of system
