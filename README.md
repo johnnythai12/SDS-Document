@@ -1,6 +1,6 @@
 # SDS-Document Group 11
 
-[![View Document](https://img.shields.io/badge/View-Document-white)](./path/to/midnight-viewers-sds.pdf)
+[![View Document](https://img.shields.io/badge/View-Document-white)](midnight-viewers-sds.pdf)
 
 ## Title Page
 * Midnight Viewer
