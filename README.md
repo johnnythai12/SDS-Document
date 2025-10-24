@@ -1,5 +1,6 @@
 # SDS-Document Group 11
 ### `midnight-viewers-sds.pdf` is the submission for the "Software Design Specification" assignment.
+### `TestCaseForMidnightViewers.xlsx` is the submission for the "Test Plan" assignment.
 
 [![📄View Document](https://img.shields.io/badge/📄View-Document-white)](midnight-viewers-sds.pdf)
 
