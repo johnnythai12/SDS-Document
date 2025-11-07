@@ -10,7 +10,7 @@
 * Midnight Viewer
 * Johnny Thai
 * Aaron Justin Garcia Cayanan
-* Ahmad Khwajazada
+* Ahmad Rishad Khwajazada
 
 ## System Description
 * Brief overview of system
