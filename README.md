@@ -1,4 +1,5 @@
 # SDS-Document Group 11
+### `MidnightviewersSRSversion3.pdf` is the submission for the "Architecture Design w/ Data Mgmt." assignment.
 ### `midnight-viewers-sds.pdf` is the submission for the "Software Design Specification" assignment.
 ### `TestCaseForMidnightViewers.xlsx` is the submission for the "Test Plan" assignment.
 
